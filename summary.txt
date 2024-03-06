@@ -1,0 +1,22 @@
+# A5 summary
+
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members: Charlie Freeman, cbf47
+
+Time spent on the assignment, in hours: 8
+
+Implementation strategy: I tested each ToDo before moving onto the next one, at least as much as I could
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+
+Testing strategy: I did not design any test cases, but tested basic functionality after each todo, and confirmed
+each of the testing bullets at the end of the assignment
+    (how did you perform testing and design test cases to achieve coverage?)
+
+Known problems:
+    (are there any things that do not work?)
+none
+
+Comments on the assignment:
+I liked this assignment as it went outside the scope of the other projects and actually built something
+that could be played, however simple it was.s
